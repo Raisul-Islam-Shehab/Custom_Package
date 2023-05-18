@@ -1,0 +1,7 @@
+To install the package -
+
+python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps example-package-shehab
+
+Use token-value -
+
+pypi-AgENdGVzdC5weXBpLm9yZwIkM2Q1ZjE5ZjYtMGJjYy00YTQ5LTljOGEtYTQwYWIyMDE0Y2VlAAIqWzMsIjQ5NjJlZTc3LTgwNTQtNDFkNy1hOWNjLWNmNTA1NGM2NGRlOSJdAAAGICRUnAs1zosHPvspHIkLR74uLitRayAdYYFm1vt9XeZq
